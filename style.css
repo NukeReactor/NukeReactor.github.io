@@ -144,12 +144,12 @@ html, body {
 }
 
 .mediaImg {
-	background-image: url(media.jpg);
+	background-image: url(social.jpg);
 	min-height: 400px;
 }
 
 .mediaImg2 {
-	background-image: url(media2.jpg);
+	background-image: url(teamSocial.jpg);
 	min-height: 400px;
 }
 
